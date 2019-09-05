@@ -28,6 +28,7 @@ Atuar como Desenvolvedor Front-End
 ---
 **Platzi**<br>
 2019/08 - Programação Básica<br>
+2019/09 - Git e GitHub Completo<br>
 
 **Digital Innovation One**<br>
 2019/08 - Fundamentos de Lógica de Programação <br>
