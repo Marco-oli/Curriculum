@@ -19,6 +19,10 @@ Atuar como Desenvolvedor Front-End
 
 #### <p style="line-height:0">**FORMAÇÃO ACADÊMICA**</p>
 ---
+
+**Universidade Estácio de Sá**<br>
+ Curso de Análise e Desenvolvimento de Sistemas (Início em 01/2020 - Término em 06/2022)
+
 **Escola Estadual Professora Maria Nazareth C. Silva**<br>
  Ensino Médio Completo (2009)
 
