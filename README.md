@@ -40,6 +40,8 @@ Atuar como Desenvolvedor Front-End
 2019/09 - Desenvolvimento Web<br>
 2019/09 - Responsive Design<br>
 2019/09 - Introdução ao Javascript<br>
+2020/03 - Curso de Frreelancer<br>
+2020/03 - Curso de Desenvolvimento ReactJs<br>
 
 
 
