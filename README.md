@@ -3,6 +3,7 @@
 [**LinkedIn:** https://www.linkedin.com/in/marcoaurelio-frontend/](https://www.linkedin.com/in/marcoaurelio-frontend/)<br>
 [**Certificados:** https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet ](https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet)<br>
 [**Site Pessoal:** https://marco-oli.github.io/Personal/ ](https://marco-oli.github.io/Personal/)
+[**GitHub:** https://https://github.com/Marco-oli](https://https://github.com/Marco-oli)
 
 Brasileiro, solteiro, 27 anos<br>
 Rua Cândido Benicio, 2935<br>
@@ -23,7 +24,7 @@ Atuar como Desenvolvedor Front-End
 
 **Universidade Estácio de Sá**<br>
  Curso de Análise e Desenvolvimento de Sistemas (Início em 01/2020 - Término em 06/2022)
- 
+
 **Escola Estadual Professora Maria Nazareth C. Silva**<br>
  Ensino Médio Completo (2009)
 
@@ -74,5 +75,5 @@ Atuar como Desenvolvedor Front-End
 |||||||
 |---|---|---|---|---|---|
 | HTML5 | ● ● ● ⚬ ⚬ | CSS3 | ● ● ⚬ ⚬ ⚬ | JavaScript | ● ⚬ ⚬ ⚬ ⚬ |
-| Jquery | ● ⚬ ⚬ ⚬ ⚬ | BootStrap | ● ● ⚬ ⚬ ⚬ | Git | ● ● ● ⚬ ⚬ | 
-| React | ● ⚬ ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ⚬ ⚬ ⚬ ⚬ | 
+| React Native | ● ● ⚬ ⚬ ⚬ | Git | ● ● ● ⚬ ⚬ |  Styled-Components | ● ● ⚬ ⚬ ⚬ |
+| ReactJs | ● ● ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ | 
