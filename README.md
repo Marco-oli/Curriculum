@@ -64,9 +64,9 @@ Atuar como Desenvolvedor Front-End
 <br>
 
 ### <p style="line-height:1">**IDIOMAS**</p>
-|INGLÊS|
-|---|---|
-|Nível: Básico|
+|INGLÊS|||
+|---|---|---|
+|Nível: Básico|||
 
 <br>
 
