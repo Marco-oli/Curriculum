@@ -19,6 +19,15 @@ Atuar como Desenvolvedor Front-End
 
 <br>
 
+#### <p style="line-height:0">**EXPERIÊNCIA PROFISSIONAL**</p>
+---
+
+**JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
+Aprender e Desenvolver Apps em React Native, utilizando as melhores ferramentas pertinentes a função.<br>
+02/03/2020 - Atualmente
+
+<br>
+
 #### <p style="line-height:0">**FORMAÇÃO ACADÊMICA**</p>
 ---
 
