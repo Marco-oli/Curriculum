@@ -15,7 +15,7 @@ E-mail: marcooli.pereira@gmail.com<br>
 
 ### <p style="line-height:0">**OBJETIVOS**</p>
 ---
-Atuar como Desenvolvedor Front-End
+Atuar como Desenvolvedor Front-End Junior
 
 <br>
 
@@ -23,16 +23,14 @@ Atuar como Desenvolvedor Front-End
 ---
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
-Aprender e Desenvolver Apps em React Native, utilizando as melhores ferramentas pertinentes a função.<br>
+Aprender e Desenvolver Apps em React Native e Expo, utilizando as melhores ferramentas pertinentes a função.<br>
+React Navigation, React Hooks, Componentização, Requisições API's, Styled-Components...<br>
 02/03/2020 - Atualmente
 
 <br>
 
 #### <p style="line-height:0">**FORMAÇÃO ACADÊMICA**</p>
 ---
-
-**Universidade Estácio de Sá**<br>
- Curso de Análise e Desenvolvimento de Sistemas (Início em 01/2020 - Término em 06/2022)
 
 **Escola Estadual Professora Maria Nazareth C. Silva**<br>
  Ensino Médio Completo (2009)
@@ -83,6 +81,6 @@ Aprender e Desenvolver Apps em React Native, utilizando as melhores ferramentas 
 
 |||||||
 |---|---|---|---|---|---|
-| HTML5 | ● ● ● ⚬ ⚬ | CSS3 | ● ● ⚬ ⚬ ⚬ | JavaScript | ● ⚬ ⚬ ⚬ ⚬ |
+| HTML5 | ● ● ● ⚬ ⚬ | CSS3 | ● ● ● ⚬ ⚬ | JavaScript | ● ● ⚬ ⚬ ⚬ |
 | React Native | ● ● ⚬ ⚬ ⚬ | Git | ● ● ● ⚬ ⚬ |  Styled-Components | ● ● ⚬ ⚬ ⚬ |
 | ReactJs | ● ● ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ | 
