@@ -3,7 +3,7 @@
 [**LinkedIn:** https://www.linkedin.com/in/marcoaurelio-frontend/](https://www.linkedin.com/in/marcoaurelio-frontend/)<br>
 [**Certificados:** https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet ](https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet)<br>
 [**Site Pessoal:** https://marco-oliveira.now.sh ](https://marco-oliveira.now.sh)<br>
-[**GitHub:** https://https://github.com/Marco-oli](https://https://github.com/Marco-oli)
+[**GitHub:** https://https://github.com/Marco-oli](https://github.com/Marco-oli)
 
 Brasileiro, solteiro, 27 anos<br>
 Rua Cândido Benicio, 2935<br>
@@ -14,12 +14,15 @@ E-mail: marcooli.pereira@gmail.com<br>
 <br>
 
 ### <p style="line-height:0">**OBJETIVOS**</p>
+
 ---
+
 Atuar como Desenvolvedor Front-End Junior
 
 <br>
 
 #### <p style="line-height:0">**EXPERIÊNCIA PROFISSIONAL**</p>
+
 ---
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
@@ -30,18 +33,21 @@ React Navigation, React Hooks, Componentização, Requisições API's, Styled-Co
 <br>
 
 #### <p style="line-height:0">**FORMAÇÃO ACADÊMICA**</p>
+
 ---
 
 **Escola Estadual Professora Maria Nazareth C. Silva**<br>
- Ensino Médio Completo (2009)
+Ensino Médio Completo (2009)
 
- **Platzi**<br>
- Curso de Desenvolvedor Front-End Especializado em React (Cursando)
+**Platzi**<br>
+Curso de Desenvolvedor Front-End Especializado em React (Cursando)
 
 <br>
 
 ### <p style="line-height:0">**CURSOS EXTRACURRICULARES**</p>
+
 ---
+
 **Platzi**<br>
 2019/08 - Programação Básica<br>
 2019/09 - Git e GitHub Completo<br>
@@ -50,8 +56,6 @@ React Navigation, React Hooks, Componentização, Requisições API's, Styled-Co
 2019/09 - Introdução ao Javascript<br>
 2020/03 - Curso de Frreelancer<br>
 2020/03 - Curso de Desenvolvimento ReactJs<br>
-
-
 
 **Digital Innovation One**<br>
 2019/08 - Fundamentos de Lógica de Programação <br>
@@ -71,16 +75,17 @@ React Navigation, React Hooks, Componentização, Requisições API's, Styled-Co
 <br>
 
 ### <p style="line-height:1">**IDIOMAS**</p>
-|INGLÊS|||
-|---|---|---|
-|Nível: Básico|||
+
+| INGLÊS        |     |     |
+| ------------- | --- | --- |
+| Nível: Básico |     |     |
 
 <br>
 
 ### <p style="line-height:0">**HARD SKILLS**</p>
 
-|||||||
-|---|---|---|---|---|---|
-| HTML5 | ● ● ● ⚬ ⚬ | CSS3 | ● ● ● ⚬ ⚬ | JavaScript | ● ● ⚬ ⚬ ⚬ |
-| React Native | ● ● ⚬ ⚬ ⚬ | Git | ● ● ● ⚬ ⚬ |  Styled-Components | ● ● ⚬ ⚬ ⚬ |
-| ReactJs | ● ● ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ | 
+|              |           |        |           |                   |           |
+| ------------ | --------- | ------ | --------- | ----------------- | --------- |
+| HTML5        | ● ● ● ⚬ ⚬ | CSS3   | ● ● ● ⚬ ⚬ | JavaScript        | ● ● ⚬ ⚬ ⚬ |
+| React Native | ● ● ⚬ ⚬ ⚬ | Git    | ● ● ● ⚬ ⚬ | Styled-Components | ● ● ⚬ ⚬ ⚬ |
+| ReactJs      | ● ● ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ |
