@@ -3,11 +3,10 @@
 [**LinkedIn:** https://www.linkedin.com/in/marcoaurelio-frontend/](https://www.linkedin.com/in/marcoaurelio-frontend/)<br>
 [**Certificados:** https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet ](https://www.credential.net/profile/marcoaurliodeoliveirapereira/wallet)<br>
 [**Site Pessoal:** https://marco-oliveira.now.sh ](https://marco-oliveira.now.sh)<br>
-[**GitHub:** https://https://github.com/Marco-oli](https://github.com/Marco-oli)
+[**GitHub:** https://github.com/Marco-oli](https://github.com/Marco-oli)
 
-Brasileiro, solteiro, 27 anos<br>
-Rua Cândido Benicio, 2935<br>
-Bloco C ent 3 ap 104 - Praça Seca - Rio de Janeiro - RJ<br>
+Brasileiro, solteiro, 28 anos<br>
+Rua Cândido Benicio, 2935 - Praça Seca - Rio de Janeiro - RJ<br>
 Cel.: 21 96407-3491<br>
 E-mail: marcooli.pereira@gmail.com<br>
 
@@ -17,7 +16,7 @@ E-mail: marcooli.pereira@gmail.com<br>
 
 ---
 
-Atuar como Desenvolvedor Front-End Junior
+Atuar como Desenvolvedor Front-End
 
 <br>
 
@@ -27,8 +26,18 @@ Atuar como Desenvolvedor Front-End Junior
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
 Aprender e Desenvolver Apps em React Native e Expo, utilizando as melhores ferramentas pertinentes a função.<br>
-React Navigation, React Hooks, Componentização, Requisições API's, Styled-Components...<br>
+React Navigation, React Hooks, Componentização, Requisições API's, Styled-Components, GitFlow, AdobeXd e Figma...<br>
 02/03/2020 - Atualmente
+
+**QCX Serviços Educacionais LTDA**<br>
+Desenvolver e dar manutenção no site da Qconcursos, utilizando o framework Svelte nas seções mais novas do projeto e manuseando arquivos com extensão erb. renderizando o front-end quando feitos em Ruby.<br>
+Alterações no Layout, Integrações com o Back-end, Componentização, TailWind, GitFlow, Figma...<br>
+02/11/2020 - 01/02/2021
+
+**Samba Mobile Multimidia S/A**<br>
+Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
+Criação de novas funcionalidades, Criação de Rotas, Integrações com o Back-end através de API's, Componentização, Styled-Components, Fidelização ao Figma, Contato direto com o cliente (Vivo), Figma...<br>
+02/01/2021 - Atualmente
 
 <br>
 
@@ -40,7 +49,7 @@ React Navigation, React Hooks, Componentização, Requisições API's, Styled-Co
 Ensino Médio Completo (2009)
 
 **Platzi**<br>
-Curso de Desenvolvedor Front-End Especializado em React (Cursando)
+Curso de Desenvolvedor Front-End Especializado em React
 
 <br>
 
@@ -87,5 +96,5 @@ Curso de Desenvolvedor Front-End Especializado em React (Cursando)
 |              |           |        |           |                   |           |
 | ------------ | --------- | ------ | --------- | ----------------- | --------- |
 | HTML5        | ● ● ● ⚬ ⚬ | CSS3   | ● ● ● ⚬ ⚬ | JavaScript        | ● ● ⚬ ⚬ ⚬ |
-| React Native | ● ● ⚬ ⚬ ⚬ | Git    | ● ● ● ⚬ ⚬ | Styled-Components | ● ● ⚬ ⚬ ⚬ |
-| ReactJs      | ● ● ⚬ ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ |
+| React Native | ● ● ● ⚬ ⚬ | Git    | ● ● ● ⚬ ⚬ | Styled-Components | ● ● ⚬ ⚬ ⚬ |
+| ReactJs      | ● ● ● ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ |
