@@ -36,7 +36,7 @@ Alterações no Layout, Integrações com o Back-end, Componentização, TailWin
 
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de novas funcionalidades, Criação de Rotas, Integrações com o Back-end através de API's, Componentização, Styled-Components, Fidelização ao Figma, Contato direto com o cliente (Vivo), Figma...<br>
+Criação de novas funcionalidades, Criação de Rotas, Integrações com o Back-end através de API's, Componentização, Styled-Components, Fidelização ao Figma, Contato direto com o cliente (Vivo)<br>
 01/02/2021 - Atualmente
 
 <br>
