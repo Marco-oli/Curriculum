@@ -16,7 +16,7 @@ E-mail: marcooli.pereira@gmail.com<br>
 
 ---
 
-Atuar como Desenvolvedor Front-End
+Atuar como Desenvolvedor Front-End.
 
 <br>
 
@@ -26,13 +26,8 @@ Atuar como Desenvolvedor Front-End
 
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de novas funcionalidades, Criação de Rotas, Integrações com o Back-end através de API's, Componentização, Styled-Components, Fidelização ao Figma, Contato direto com o cliente (Vivo).<br>
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end através de API's utilizando o axios ou fetch, componentização, estilização com Styled-Components, integração com libs externas, utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma.<br>
 01/02/2021 - Atualmente
-
-**QCX Serviços Educacionais LTDA**<br>
-Desenvolver e dar manutenção no site da Qconcursos, utilizando o framework Svelte nas seções mais novas do projeto e manuseando arquivos com extensão erb. renderizando o front-end quando feitos em Ruby.<br>
-Alterações no Layout, Integrações com o Back-end, Componentização, TailWind, GitFlow, Figma...<br>
-02/11/2020 - 01/02/2021
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
 Aprender e Desenvolver Apps em React Native e Expo, utilizando as melhores ferramentas pertinentes a função.<br>
@@ -96,5 +91,5 @@ Curso de Desenvolvedor Front-End Especializado em React
 |              |           |        |           |                   |           |
 | ------------ | --------- | ------ | --------- | ----------------- | --------- |
 | HTML5        | ● ● ● ● ⚬ | CSS3   | ● ● ● ● ⚬ | JavaScript        | ● ● ● ⚬ ⚬ |
-| React Native | ● ● ● ⚬ ⚬ | Git    | ● ● ● ⚬ ⚬ | Styled-Components | ● ● ● ⚬ ⚬ |
+| React Native | ● ● ● ● ⚬ | Git    | ● ● ● ⚬ ⚬ | Styled-Components | ● ● ● ⚬ ⚬ |
 | ReactJs      | ● ● ● ⚬ ⚬ | Github | ● ● ● ⚬ ⚬ | Responsive Design | ● ● ● ⚬ ⚬ |
