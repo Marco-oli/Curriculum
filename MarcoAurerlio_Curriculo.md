@@ -32,7 +32,7 @@ Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integr
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
 Aprender e Desenvolver Apps em React Native e Expo, utilizando as melhores ferramentas pertinentes a função.<br>
 React Navigation, React Hooks, Componentização, Requisições API's, Styled-Components, GitFlow, AdobeXd e Figma...<br>
-02/03/2020 - Atualmente
+02/03/2020 - 01/02/2021
 
 <br>
 
