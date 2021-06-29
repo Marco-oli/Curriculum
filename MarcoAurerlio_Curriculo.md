@@ -5,7 +5,7 @@
 [**Site Pessoal:** https://marco-oliveira.now.sh ](https://marco-oliveira.now.sh)<br>
 [**GitHub:** https://github.com/Marco-oli](https://github.com/Marco-oli)
 
-Brasileiro, solteiro, 28 anos<br>
+Brasileiro, solteiro, 29 anos<br>
 Rua Cândido Benicio, 2935 - Praça Seca - Rio de Janeiro - RJ<br>
 Cel.: 21 96407-3491<br>
 E-mail: marcooli.pereira@gmail.com<br>
@@ -26,7 +26,7 @@ Atuar como Desenvolvedor Front-End.
 
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end através de API's utilizando o axios ou fetch, componentização, estilização com Styled-Components, integração com libs externas, utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma.<br>
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts),  utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma.<br>
 01/02/2021 - Atualmente
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
