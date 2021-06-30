@@ -26,7 +26,7 @@ Atuar como Desenvolvedor Front-End.
 
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts),  utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma.<br>
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts),  utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
 01/02/2021 - Atualmente
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
