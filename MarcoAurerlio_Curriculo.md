@@ -24,10 +24,15 @@ Atuar como Desenvolvedor Front-End.
 
 ---
 
+**Concrete Solutions**<br>
+Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, criação de testes unitários, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
+09/08/2021 - Atualmente
+
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts),  utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
-01/02/2021 - Atualmente
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
+01/02/2021 - 30/07/2021
 
 **JTI Desenvolvimento e Consultoria em Informática Ltda**<br>
 Aprender e Desenvolver Apps em React Native e Expo, utilizando as melhores ferramentas pertinentes a função.<br>
