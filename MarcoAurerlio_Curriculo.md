@@ -27,17 +27,12 @@ Atuar como Desenvolvedor Front-End Mobile.
 **Esportudo**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
 Criação de telas intuitivas, novas funcionalidades, criação de Rotas, criação de testes unitários, integrações com o Back-end, componentização, estilização com StyleSheet, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
-01/04/2021 - Atualmente
-
-**Onebrain**<br>
-Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
-Criação de telas intuitivas, novas funcionalidades, criação de Rotas, criação de testes unitários, integrações com o Back-end, componentização, estilização com StyleSheet, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
-01/04/2021 - 30/08/2022
+01/09/2022 - Atualmente
 
 **Accenture**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
 Criação de telas intuitivas, novas funcionalidades, criação de Rotas, criação de testes unitários, integrações com o Back-end, componentização, estilização com Styled-Components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma, contato direto com o cliente.<br>
-09/08/2021 - 31/03/2022
+09/08/2021 - 30/08/2022
 
 **Samba Mobile Multimidia S/A**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
