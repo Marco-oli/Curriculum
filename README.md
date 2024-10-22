@@ -5,8 +5,8 @@
 [**Site Pessoal:** https://marco-oliveira.now.sh ](https://marco-oliveira.now.sh)<br>
 [**GitHub:** https://github.com/Marco-oli](https://github.com/Marco-oli)
 
-Brasileiro, solteiro, 31 anos<br>
-Rua Cândido Benicio, 2935 - Praça Seca - Rio de Janeiro - RJ<br>
+Brasileiro, solteiro, 32 anos<br>
+Rua Albano, 78 - Praça Seca - Rio de Janeiro - RJ<br>
 Cel.: 21 96407-3491<br>
 E-mail: marcooli.pereira@gmail.com<br>
 
@@ -23,6 +23,11 @@ Atuar como Desenvolvedor Front-End Mobile.
 #### <p style="line-height:0">**EXPERIÊNCIA PROFISSIONAL**</p>
 
 ---
+
+**PitchYN**<br>
+Criar, desenvolver e dar manutenção no app da PitchYN utilizando React Native.<br>
+Criação de telas intuitivas, novas funcionalidades, criação de Rotas, criação de testes unitários, integrações com o Back-end, componentização, estilização com StyleSheet e styled-components, integração com libs externas, inserir components nativos(SplashScreen, ícones, Fonts), utilização da sintaxe Es6 do javascript, hooks, Fidelização ao Figma<br>
+02/09/2023 - atualmente
 
 **Esportudo**<br>
 Criar, desenvolver e dar manutenção em apps de nossos clientes utilizando React Native.<br>
